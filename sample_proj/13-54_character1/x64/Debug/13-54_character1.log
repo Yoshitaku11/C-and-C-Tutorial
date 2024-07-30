@@ -1,0 +1,4 @@
+﻿  sample_ex4-1.c
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\13-54_character1\sample_ex4-1.c(14,8): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\13-54_character1\sample_ex4-1.c(8,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\13-54_character1\sample_ex4-1.c(11,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

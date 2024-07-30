@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9A00040-AC3B-43F4-84B6-81A72F08CB0E}|sample_proj2\\sample_proj2.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj2\\pointer_basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B9A00040-AC3B-43F4-84B6-81A72F08CB0E}|sample_proj2\\sample_proj2.vcxproj|solutionrelative:sample_proj2\\pointer_basic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|solutionrelative:16-71_complex_split_file\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1624B036-5817-4F44-ACB4-2257EFF3B906}|11-47_pointer_function\\11-47_pointer_function.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\11-47_pointer_function\\pointer_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1624B036-5817-4F44-ACB4-2257EFF3B906}|11-47_pointer_function\\11-47_pointer_function.vcxproj|solutionrelative:11-47_pointer_function\\pointer_function.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|solutionrelative:16-71_complex_split_file\\studentDatabase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A45627E8-5EC1-495D-81E4-D164A2D357CB}|sample_proj\\sample_proj.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A45627E8-5EC1-495D-81E4-D164A2D357CB}|sample_proj\\sample_proj.vcxproj|solutionrelative:sample_proj\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|solutionrelative:16-71_complex_split_file\\dataOutput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A45627E8-5EC1-495D-81E4-D164A2D357CB}|sample_proj\\sample_proj.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A45627E8-5EC1-495D-81E4-D164A2D357CB}|sample_proj\\sample_proj.vcxproj|solutionrelative:sample_proj\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|solutionrelative:16-71_complex_split_file\\studentDatabase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE47609B-EEF1-44EB-A6DC-88DD3F98CE5C}|16-71_complex_split_file\\16-71_complex_split_file.vcxproj|solutionrelative:16-71_complex_split_file\\dataOutput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC88A08-C89E-41FD-A48B-96829F225821}|16-70_split_file\\16-70_split_file.vcxproj|C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-70_split_file\\16-70_split_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EC88A08-C89E-41FD-A48B-96829F225821}|16-70_split_file\\16-70_split_file.vcxproj|solutionrelative:16-70_split_file\\16-70_split_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pointer_function.c",
-              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\11-47_pointer_function\\pointer_function.c",
-              "RelativeDocumentMoniker": "11-47_pointer_function\\pointer_function.c",
-              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\11-47_pointer_function\\pointer_function.c",
-              "RelativeToolTip": "11-47_pointer_function\\pointer_function.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-02T14:19:37.005Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pointer_basic.c",
-              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj2\\pointer_basic.c",
-              "RelativeDocumentMoniker": "sample_proj2\\pointer_basic.c",
-              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj2\\pointer_basic.c",
-              "RelativeToolTip": "sample_proj2\\pointer_basic.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "DocumentIndex": 1,
+              "Title": "studentDatabase.c",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.c",
+              "RelativeDocumentMoniker": "16-71_complex_split_file\\studentDatabase.c",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.c",
+              "RelativeToolTip": "16-71_complex_split_file\\studentDatabase.c",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-02T14:05:40.458Z",
+              "WhenOpened": "2024-07-30T13:33:01.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "test.h",
-              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\test.h",
-              "RelativeDocumentMoniker": "sample_proj\\test.h",
-              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\test.h",
-              "RelativeToolTip": "sample_proj\\test.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T14:02:23.895Z"
+              "Title": "dataOutput.c",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.c",
+              "RelativeDocumentMoniker": "16-71_complex_split_file\\dataOutput.c",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.c",
+              "RelativeToolTip": "16-71_complex_split_file\\dataOutput.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-30T13:32:43.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "studentDatabase.h",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.h",
+              "RelativeDocumentMoniker": "16-71_complex_split_file\\studentDatabase.h",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\studentDatabase.h",
+              "RelativeToolTip": "16-71_complex_split_file\\studentDatabase.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T13:32:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dataOutput.h",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.h",
+              "RelativeDocumentMoniker": "16-71_complex_split_file\\dataOutput.h",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\dataOutput.h",
+              "RelativeToolTip": "16-71_complex_split_file\\dataOutput.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T13:32:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\main.c",
-              "RelativeDocumentMoniker": "sample_proj\\main.c",
-              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\sample_proj\\main.c",
-              "RelativeToolTip": "sample_proj\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\main.c",
+              "RelativeDocumentMoniker": "16-71_complex_split_file\\main.c",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-71_complex_split_file\\main.c",
+              "RelativeToolTip": "16-71_complex_split_file\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-22T13:48:47.727Z"
+              "WhenOpened": "2024-07-30T13:31:53.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "16-70_split_file.c",
+              "DocumentMoniker": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-70_split_file\\16-70_split_file.c",
+              "RelativeDocumentMoniker": "16-70_split_file\\16-70_split_file.c",
+              "ToolTip": "C:\\Users\\yadok\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\01_Udemy\\02_\u4E00\u9031\u9593\u3067\u8EAB\u306B\u3064\u304FC_C\u002B\u002B\u8A00\u8A9E\\sample_proj\\16-70_split_file\\16-70_split_file.c",
+              "RelativeToolTip": "16-70_split_file\\16-70_split_file.c",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-30T13:09:44.99Z",
+              "EditorCaption": ""
             }
           ]
         }

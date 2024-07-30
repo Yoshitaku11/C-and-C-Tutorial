@@ -1,0 +1,6 @@
+﻿  sample62.c
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\14-62_pointer_data\sample62.c(15,78): warning C4311: '型キャスト': ポインターを 'num_data *' から 'unsigned int' へ切り詰めます。
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\14-62_pointer_data\sample62.c(15,97): warning C4311: '型キャスト': ポインターを 'num_data *' から 'unsigned int' へ切り詰めます。
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\14-62_pointer_data\sample62.c(25,94): warning C4311: '型キャスト': ポインターを 'num_data *' から 'unsigned int' へ切り詰めます。
+C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\14-62_pointer_data\sample62.c(32,94): warning C4311: '型キャスト': ポインターを 'num_data *' から 'unsigned int' へ切り詰めます。
+  14-62_pointer_data.vcxproj -> C:\Users\yadok\OneDrive\ドキュメント\01_Udemy\02_一週間で身につくC_C++言語\sample_proj\x64\Debug\14-62_pointer_data.exe
